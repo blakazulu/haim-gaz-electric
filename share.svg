@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+<rect width="1200" height="630" fill="#062b52"/><path d="M0 510C260 430 360 610 650 505s410-50 550-100v225H0z" fill="#075da8"/><circle cx="1020" cy="105" r="180" fill="#ffc400" opacity=".12"/>
+<g transform="translate(240 100)"><rect width="720" height="220" rx="18" fill="#fff"/><path d="M110 82 238 18l31 18V8h37v48l82 41h188c43 0 67 20 67 58v17" fill="none" stroke="#0787c8" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/><path d="m259 37-30 52h29l-13 55 51-72h-31l20-35z" fill="#ffc400"/><text x="395" y="168" direction="rtl" text-anchor="middle" font-family="Arial, sans-serif" font-size="78" font-weight="900"><tspan fill="#075da8">חשמל</tspan><tspan fill="#ffc400"> חיים</tspan></text></g>
+<text x="600" y="405" direction="rtl" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#fff">כל עבודות החשמל תחת קורת גג אחת</text><text x="600" y="472" direction="rtl" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#ffc400">חשמלאי מוסמך בדימונה · 052-439-7528</text>
+</svg>
