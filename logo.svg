@@ -6,9 +6,9 @@
   <path d="M247 54v44" stroke="#076bb4" stroke-width="20"/>
   <path d="M370 4v39h-32V4z" fill="#0878bd"/>
   <path d="m338 32-35 53h25l-10 48 48-69h-28l14-32z" fill="#ffc400"/>
-  <text x="612" y="157" text-anchor="end" direction="rtl" unicode-bidi="bidi-override" font-family="Noto Sans Hebrew,Arial,sans-serif" font-size="100" font-weight="900" fill="#0668b3">חשמל</text>
-  <text x="304" y="157" text-anchor="end" direction="rtl" unicode-bidi="bidi-override" font-family="Noto Sans Hebrew,Arial,sans-serif" font-size="100" font-weight="900" fill="#ffc400">חיים</text>
+  <text x="612" y="157" text-anchor="end" font-family="Noto Sans Hebrew,Arial,sans-serif" font-size="100" font-weight="900" fill="#0668b3">חשמל</text>
+  <text x="304" y="157" text-anchor="end" font-family="Noto Sans Hebrew,Arial,sans-serif" font-size="100" font-weight="900" fill="#ffc400">חיים</text>
   <path d="M697 152h16v36h-16zm-12 0h16v36h-16zm-10-20h48v38a16 16 0 0 1-16 16h-16a16 16 0 0 1-16-16z" fill="#0668b3"/>
   <path d="M26 199h58M628 199h40" stroke="#ffc400" stroke-width="6" stroke-linecap="round"/>
-  <text x="610" y="210" text-anchor="end" direction="rtl" unicode-bidi="bidi-override" font-family="Noto Sans Hebrew,Arial,sans-serif" font-size="28" font-weight="700" fill="#12243c">כל עבודות החשמל תחת קורת גג אחת</text>
+  <text x="610" y="210" text-anchor="end" font-family="Noto Sans Hebrew,Arial,sans-serif" font-size="28" font-weight="700" fill="#12243c">כל עבודות החשמל תחת קורת גג אחת</text>
 </svg>
