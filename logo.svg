@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 220" role="img" aria-labelledby="title desc">
+<title id="title">חשמל חיים</title><desc id="desc">קו גג כחול, ברק צהוב ושם העסק חשמל חיים</desc>
+<rect width="720" height="220" rx="18" fill="#fff"/>
+<path d="M110 82 238 18l31 18V8h37v48l82 41h188c43 0 67 20 67 58v17" fill="none" stroke="#0787c8" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="m259 37-30 52h29l-13 55 51-72h-31l20-35z" fill="#ffc400"/>
+<text x="395" y="168" direction="rtl" text-anchor="middle" font-family="Arial, sans-serif" font-size="78" font-weight="900"><tspan fill="#075da8">חשמל</tspan><tspan fill="#ffc400"> חיים</tspan></text>
+<path d="M645 152v28m-12-28v28m-8-54h28v32h-28z" fill="#075da8"/>
+</svg>
