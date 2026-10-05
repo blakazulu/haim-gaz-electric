@@ -1,7 +1,0 @@
-/* Shayach occupies a reserved rail, never the reading area. */
-html{padding-right:64px!important;box-sizing:border-box!important;scroll-padding-bottom:20px}
-body{max-width:100%;margin-right:0!important;box-sizing:border-box}
-html::after{content:"";position:fixed;right:0;top:0;bottom:0;width:64px;background:#f4f8fc;border-left:1px solid #d5e0ea;z-index:900;pointer-events:none}
-@media(max-width:640px){html{padding-right:56px!important}html::after{width:56px}}
-
-body{overflow-x:clip}.skip:focus{right:76px!important}@media(max-width:640px){.topbar{gap:12px}.topbar .brand{min-width:0}.topbar .brand img{max-width:136px;height:auto}.skip:focus{right:68px!important}}
