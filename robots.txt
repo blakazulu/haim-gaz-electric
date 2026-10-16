@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://haim-gaz-electric.netlify.app/sitemap.xml
+Sitemap: https://haim-gaz-electric.esekpo.co.il/sitemap.xml
